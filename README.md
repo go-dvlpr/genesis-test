@@ -14,6 +14,7 @@ Wikipedia. Допомагає обрати напрям **подальшої п�
 Потрібні Python 3.11+ та [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
 ```sh
+git clone https://github.com/go-dvlpr/genesis-test.git wiki-interest
 cd wiki-interest
 uv sync --locked
 uv run --locked python scripts/wiki_interest.py replay \
@@ -26,6 +27,40 @@ uv run --locked python scripts/wiki_interest.py verify --directory runs/offline-
 помістіть усю директорію `wiki-interest` у підтримувану ним директорію навичок
 або передайте агенту шлях до `SKILL.md`. Програма не потребує ключа LLM API;
 доступ до моделі забезпечує середовище агента.
+
+## Сумісність із Claude та іншими агентами
+
+Навичка використовує відкритий формат [Agent Skills](https://agentskills.io/specification)
+і звичайні Python-скрипти. Код не залежить від Codex або SDK певного постачальника
+моделей. Агенту потрібні читання файлів, запуск команд, Python 3.11+, `uv` і доступ
+до Wikimedia для нових досліджень. Збережені дослідження можна відтворювати без мережі.
+
+Claude Code [підтримує цей формат](https://code.claude.com/docs/en/skills).
+Щоб установити навичку для всіх локальних проєктів Claude Code, клонуйте **весь**
+репозиторій у директорію навички (команди розраховані на відсутню директорію):
+
+```sh
+mkdir -p ~/.claude/skills
+git clone https://github.com/go-dvlpr/genesis-test.git ~/.claude/skills/wiki-interest
+cd ~/.claude/skills/wiki-interest
+uv sync --locked
+```
+
+Після цього запустіть Claude Code і викличте:
+
+```text
+/wiki-interest Порівняй інтерес до астрономії в українському й польському розділах Wikipedia за останні два повні роки. Створи PDF українською.
+```
+
+Інший агент із підтримкою Agent Skills та виконання Python може користуватися цим
+самим пакетом. Без автоматичного завантаження навичок можна явно передати шлях до
+`SKILL.md` агенту з доступом до файлів і термінала. Самого текстового чату або
+окремого запиту до LLM API недостатньо: середовище має виконувати команди та
+зберігати результати. Доступність інструментів і мережі залежить від середовища.
+
+Фактичний наскрізний прогін виконано в Codex на `gpt-5.6-luna`. Окремий прогін на
+Claude ще не проводився; сумісність із Claude Code ґрунтується на підтримуваному
+форматі та незалежному від моделі коді.
 
 ## Нове дослідження
 
