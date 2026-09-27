@@ -1,0 +1,59 @@
+{
+  "independent_decimal_checks": [
+    {
+      "example": "astronomy-uk",
+      "language": "uk",
+      "baseline": 16614,
+      "recent": 6708,
+      "verified": true
+    },
+    {
+      "example": "astronomy-uk-pl",
+      "language": "uk",
+      "baseline": 16614,
+      "recent": 6708,
+      "verified": true
+    },
+    {
+      "example": "astronomy-uk-pl",
+      "language": "pl",
+      "baseline": 20477,
+      "recent": 17175,
+      "verified": true
+    },
+    {
+      "example": "english-de-es-fi",
+      "language": "de",
+      "baseline": 1292,
+      "recent": 871,
+      "verified": true
+    },
+    {
+      "example": "english-de-es-fi",
+      "language": "es",
+      "baseline": 2915,
+      "recent": 1389,
+      "verified": true
+    },
+    {
+      "example": "english-de-es-fi",
+      "language": "fi",
+      "baseline": 222,
+      "recent": 171,
+      "verified": true
+    },
+    {
+      "example": "fasting-pl-cs",
+      "language": "pl",
+      "missing": true
+    },
+    {
+      "example": "fasting-pl-cs",
+      "language": "cs",
+      "baseline": 4741,
+      "recent": 2198,
+      "verified": true
+    }
+  ],
+  "all_pdfs_one_page": true
+}

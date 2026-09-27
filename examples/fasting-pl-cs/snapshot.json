@@ -1,0 +1,1160 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-22T15:46:56.081812+00:00",
+  "fetched_at": "2026-09-22T15:41:31.666885+00:00",
+  "as_of": "2026-08",
+  "plan": {
+    "schema_version": 1,
+    "topic": "Інтервальне голодування: польський і чеський розділи Wikipedia",
+    "report_language": "uk",
+    "topics": [
+      {
+        "qid": "Q1666254",
+        "label": "intermittent fasting",
+        "description": "a diet that cycles between a period of fasting and non-fasting"
+      }
+    ],
+    "projects": [
+      {
+        "language": "pl",
+        "pages": [
+          {
+            "qid": "Q1666254",
+            "title": null,
+            "reason": "No Wikidata sitelink in this language"
+          }
+        ]
+      },
+      {
+        "language": "cs",
+        "pages": [
+          {
+            "qid": "Q1666254",
+            "title": "Přerušovaný půst",
+            "pageid": 1632302,
+            "revision_id": 25947007,
+            "url": "https://cs.wikipedia.org/wiki/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst",
+            "requested_title": "Přerušovaný půst"
+          }
+        ]
+      }
+    ],
+    "start": "2024-09",
+    "end": "2026-08",
+    "access": "all-access",
+    "agent": "user",
+    "granularity": "monthly",
+    "created_at": "2026-09-22T15:46:29.270898+00:00",
+    "criteria": {
+      "min_annual_views": 1000,
+      "growth_threshold_pct": 10
+    },
+    "resolution_sources": [
+      {
+        "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=2&ids=Q1666254&languages=en&props=labels%7Cdescriptions%7Csitelinks",
+        "fetched_at": "2026-09-22T15:41:11.776354+00:00",
+        "sha256": "90731a26809854ed118f92530cb6d97e59fe2484ebe998558401594f8da113b9",
+        "status": 200,
+        "data": {
+          "entities": {
+            "Q1666254": {
+              "type": "item",
+              "id": "Q1666254",
+              "labels": {
+                "en": {
+                  "language": "en",
+                  "value": "intermittent fasting"
+                }
+              },
+              "descriptions": {
+                "en": {
+                  "language": "en",
+                  "value": "a diet that cycles between a period of fasting and non-fasting"
+                }
+              },
+              "sitelinks": {
+                "arwiki": {
+                  "site": "arwiki",
+                  "title": "صوم متقطع",
+                  "badges": []
+                },
+                "astwiki": {
+                  "site": "astwiki",
+                  "title": "Ayunu intermitente",
+                  "badges": []
+                },
+                "bgwiki": {
+                  "site": "bgwiki",
+                  "title": "Периодично гладуване",
+                  "badges": []
+                },
+                "bnwiki": {
+                  "site": "bnwiki",
+                  "title": "সবিরাম উপবাস",
+                  "badges": []
+                },
+                "cswiki": {
+                  "site": "cswiki",
+                  "title": "Přerušovaný půst",
+                  "badges": []
+                },
+                "dawiki": {
+                  "site": "dawiki",
+                  "title": "Periodisk faste",
+                  "badges": []
+                },
+                "dewiki": {
+                  "site": "dewiki",
+                  "title": "Intermittierendes Fasten",
+                  "badges": []
+                },
+                "enwiki": {
+                  "site": "enwiki",
+                  "title": "Intermittent fasting",
+                  "badges": []
+                },
+                "eswiki": {
+                  "site": "eswiki",
+                  "title": "Ayuno intermitente",
+                  "badges": []
+                },
+                "euwiki": {
+                  "site": "euwiki",
+                  "title": "Aldizkako barau",
+                  "badges": []
+                },
+                "fawiki": {
+                  "site": "fawiki",
+                  "title": "روزه‌گیری مقطعی",
+                  "badges": []
+                },
+                "fiwiki": {
+                  "site": "fiwiki",
+                  "title": "Pätkäpaasto",
+                  "badges": []
+                },
+                "frwiki": {
+                  "site": "frwiki",
+                  "title": "Jeûne intermittent",
+                  "badges": []
+                },
+                "hewiki": {
+                  "site": "hewiki",
+                  "title": "צום לסירוגין",
+                  "badges": []
+                },
+                "hiwiki": {
+                  "site": "hiwiki",
+                  "title": "आंतरायिक उपवास",
+                  "badges": []
+                },
+                "huwiki": {
+                  "site": "huwiki",
+                  "title": "Időszakos böjt",
+                  "badges": []
+                },
+                "idwiki": {
+                  "site": "idwiki",
+                  "title": "Puasa intermiten",
+                  "badges": []
+                },
+                "itwiki": {
+                  "site": "itwiki",
+                  "title": "Digiuno intermittente",
+                  "badges": []
+                },
+                "jawiki": {
+                  "site": "jawiki",
+                  "title": "断続的断食",
+                  "badges": []
+                },
+                "kowiki": {
+                  "site": "kowiki",
+                  "title": "간헐적 단식",
+                  "badges": []
+                },
+                "mrwiki": {
+                  "site": "mrwiki",
+                  "title": "असंतत उपवास",
+                  "badges": []
+                },
+                "mswiki": {
+                  "site": "mswiki",
+                  "title": "Puasa berkala",
+                  "badges": []
+                },
+                "rowiki": {
+                  "site": "rowiki",
+                  "title": "Post intermitent",
+                  "badges": []
+                },
+                "ruwiki": {
+                  "site": "ruwiki",
+                  "title": "Периодическое голодание",
+                  "badges": []
+                },
+                "slwiki": {
+                  "site": "slwiki",
+                  "title": "Prekinitveni post",
+                  "badges": []
+                },
+                "sqwiki": {
+                  "site": "sqwiki",
+                  "title": "Agjërimi me ndërprerje",
+                  "badges": []
+                },
+                "thwiki": {
+                  "site": "thwiki",
+                  "title": "การอดอาหารเป็นพัก ๆ",
+                  "badges": []
+                },
+                "ukwiki": {
+                  "site": "ukwiki",
+                  "title": "Інтервальне голодування",
+                  "badges": []
+                },
+                "viwiki": {
+                  "site": "viwiki",
+                  "title": "Nhịn ăn gián đoạn",
+                  "badges": []
+                },
+                "xhwiki": {
+                  "site": "xhwiki",
+                  "title": "Intermitent fasting",
+                  "badges": []
+                },
+                "zhwiki": {
+                  "site": "zhwiki",
+                  "title": "間歇性斷食",
+                  "badges": []
+                }
+              }
+            }
+          },
+          "success": 1
+        }
+      },
+      {
+        "url": "https://cs.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=P%C5%99eru%C5%A1ovan%C3%BD+p%C5%AFst",
+        "fetched_at": "2026-09-22T15:41:12.103642+00:00",
+        "sha256": "ea0059f531e3dfd5bb147795458f330154acf50aa09878ffa43880d84597a852",
+        "status": 200,
+        "data": {
+          "batchcomplete": true,
+          "query": {
+            "pages": [
+              {
+                "pageid": 1632302,
+                "ns": 0,
+                "title": "Přerušovaný půst",
+                "pageprops": {
+                  "wikibase_item": "Q1666254"
+                },
+                "contentmodel": "wikitext",
+                "pagelanguage": "cs",
+                "pagelanguagehtmlcode": "cs",
+                "pagelanguagedir": "ltr",
+                "touched": "2026-09-15T12:20:42Z",
+                "lastrevid": 25947007,
+                "length": 7148
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/pl.wikipedia/all-access/user/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:41:29.553035+00:00",
+      "sha256": "c22cabea916d625a04d3a5db79a65b318913e51a1de812360fe96c04c43a8fb6",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "views": 258404661
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "views": 215496356
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "views": 222403572
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "views": 212315112
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "views": 213484688
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "views": 202767752
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "views": 203232097
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "views": 211231029
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "views": 192493223
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "views": 208701948
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "views": 218936097
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "views": 219776867
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/pl.wikipedia/all-access/user/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:41:29.699768+00:00",
+      "sha256": "d61095274a6813e2c19b7aa6f1e67fbf19e06fc8643554ffec462e89c81a06d2",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "views": 252131702
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "views": 211020679
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "views": 224233637
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "views": 199339583
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "views": 194249620
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "views": 170783829
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "views": 186739175
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "views": 196910322
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "views": 189329148
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "views": 201290696
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "views": 228294569
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "views": 190164557
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/pl.wikipedia/all-access/user/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:41:29.852064+00:00",
+      "sha256": "6aef25020e050371df29e0c347a7d4b9d76ede4fd57cacec76900cf716563770",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "views": 204283824
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "views": 178016304
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "views": 178619982
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "views": 172037842
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "views": 179989593
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "views": 179578875
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "views": 179428492
+          },
+          {
+            "project": "pl.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "views": 175873090
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia/all-access/user/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:41:30.136154+00:00",
+      "sha256": "9e2db4db7f3c3f0293936c9cd81fdbade5a6485cec7aa1f44639c970b700a01f",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "views": 85518969
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "views": 71238611
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "views": 77071534
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "views": 73450167
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "views": 81288418
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "views": 63852880
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "views": 60287958
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "views": 61570727
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "views": 62292789
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "views": 70881496
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "views": 68852170
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "views": 70360761
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia/all-access/user/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:41:30.428993+00:00",
+      "sha256": "672bbc274b62879f52540241bd97ff6344018abfcc5a935c9144c30e4a62370a",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "views": 83396601
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "views": 69753016
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "views": 74887886
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "views": 67010206
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "views": 73630159
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "views": 56271438
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "views": 61159851
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "views": 57515129
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "views": 57306454
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "views": 66546281
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "views": 72883460
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "views": 59967317
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/cs.wikipedia/all-access/user/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:41:30.702064+00:00",
+      "sha256": "0dfc9cb7c2625fbc8837dd453c162e43d6081df98a878692635c2224b190b80f",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "views": 67410000
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "views": 58306397
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "views": 58040192
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "views": 54688383
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "views": 59792880
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "views": 53683305
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "views": 53131065
+          },
+          {
+            "project": "cs.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "views": 51467770
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/cs.wikipedia/all-access/user/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:41:31.033890+00:00",
+      "sha256": "456b2cf6aba34a00f49f535bda8937745898b013e3470503dbe90616d976f8ae",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 773
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 593
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 770
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 537
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 749
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 491
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 526
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 447
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 393
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 634
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 329
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 294
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/cs.wikipedia/all-access/user/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:41:31.342262+00:00",
+      "sha256": "524db980aad66335f85e0d83d891d53c54d5747f3984f21631c298ae4e05acf6",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 489
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 272
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 366
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 958
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 225
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 238
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 157
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 386
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 270
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 141
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 151
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 218
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/cs.wikipedia/all-access/user/P%C5%99eru%C5%A1ovan%C3%BD_p%C5%AFst/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:41:31.666885+00:00",
+      "sha256": "081b8c2841b396b07affab2b53378b475e7226446ca5798c813f915425c0a01b",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 474
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 196
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 179
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 135
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 115
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 91
+          },
+          {
+            "project": "cs.wikipedia",
+            "article": "Přerušovaný_půst",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 119
+          }
+        ]
+      }
+    }
+  ],
+  "sha256": "67196f82dd7692e19061405f8146773a1c86b1652b77ce86d3613dc2dd3b38a2"
+}

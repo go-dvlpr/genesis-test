@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=2&ids=Q333&languages=en&props=labels%7Cdescriptions%7Csitelinks",
+    "fetched_at": "2026-09-22T15:38:40.894309+00:00",
+    "sha256": "ddb122632066d85b0de32edcc67855064d986b27f96fbd7f64046291d7d0462f",
+    "status": 200
+  },
+  {
+    "url": "https://uk.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F",
+    "fetched_at": "2026-09-22T15:38:41.313040+00:00",
+    "sha256": "63ca78550b8c256916a56f413d896aec67dcbfe9d8e32d89dda2292fa5ca9db9",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia/all-access/user/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:38:49.781099+00:00",
+    "sha256": "6eaae54b7e60227702bb488a5751e46761a04036f3cf51d7a43aff6458a57342",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia/all-access/user/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:38:50.087570+00:00",
+    "sha256": "b5713c921304f783683f8155db4a91d3d539d00b320d3aba8997b945f1f205db",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia/all-access/user/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:38:50.368180+00:00",
+    "sha256": "6b363307d828a98e73e2b354e917780d88cab60f449ff68c9207879030d7d7be",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:38:50.694942+00:00",
+    "sha256": "399832b20a9cac3868960f9187cf5dd39f923188a1752ceea4d53f36127d5238",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:38:50.995601+00:00",
+    "sha256": "2f1966d47d0c60f6caeb16a2b719e7d2fe9b6d5cf9c212c2db873b69ee6d83b4",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:38:51.301804+00:00",
+    "sha256": "d2621c2efdd7b188f51a6055028d5e643c4ce7b4228f51bdab82e6f8f2e97de6",
+    "status": 200
+  }
+]

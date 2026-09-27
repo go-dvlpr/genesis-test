@@ -1,0 +1,2079 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-22T15:47:54.078070+00:00",
+  "fetched_at": "2026-09-22T15:47:54.065925+00:00",
+  "as_of": "2026-08",
+  "plan": {
+    "schema_version": 1,
+    "topic": "Вивчення англійської: увага до теми другої або іноземної мови",
+    "report_language": "uk",
+    "topics": [
+      {
+        "qid": "Q130192",
+        "label": "English as a second or foreign language",
+        "description": "use of English by speakers with different native languages"
+      }
+    ],
+    "projects": [
+      {
+        "language": "de",
+        "pages": [
+          {
+            "qid": "Q130192",
+            "title": "Englisch als Zweitsprache",
+            "pageid": 1752610,
+            "revision_id": 251286770,
+            "url": "https://de.wikipedia.org/wiki/Englisch_als_Zweitsprache",
+            "requested_title": "Englisch als Zweitsprache"
+          }
+        ]
+      },
+      {
+        "language": "es",
+        "pages": [
+          {
+            "qid": "Q130192",
+            "title": "Inglés como segunda lengua",
+            "pageid": 9992677,
+            "revision_id": 174825397,
+            "url": "https://es.wikipedia.org/wiki/Ingl%C3%A9s_como_segunda_lengua",
+            "requested_title": "Inglés como segunda lengua"
+          }
+        ]
+      },
+      {
+        "language": "fi",
+        "pages": [
+          {
+            "qid": "Q130192",
+            "title": "Englannin kielen opetus vieraana kielenä",
+            "pageid": 1752081,
+            "revision_id": 22649569,
+            "url": "https://fi.wikipedia.org/wiki/Englannin_kielen_opetus_vieraana_kielen%C3%A4",
+            "requested_title": "Englannin kielen opetus vieraana kielenä"
+          }
+        ]
+      }
+    ],
+    "start": "2024-09",
+    "end": "2026-08",
+    "access": "all-access",
+    "agent": "user",
+    "granularity": "monthly",
+    "created_at": "2026-09-22T15:45:10.595925+00:00",
+    "criteria": {
+      "min_annual_views": 1000,
+      "growth_threshold_pct": 10
+    },
+    "resolution_sources": [
+      {
+        "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=2&ids=Q130192&languages=en&props=labels%7Cdescriptions%7Csitelinks",
+        "fetched_at": "2026-09-22T15:41:31.130735+00:00",
+        "sha256": "76bc0b1117289e567d408f5a2fa5ecb32fb758c6f35f84824abd4b0ef5821f1c",
+        "status": 200,
+        "data": {
+          "entities": {
+            "Q130192": {
+              "type": "item",
+              "id": "Q130192",
+              "labels": {
+                "en": {
+                  "language": "en",
+                  "value": "English as a second or foreign language"
+                }
+              },
+              "descriptions": {
+                "en": {
+                  "language": "en",
+                  "value": "use of English by speakers with different native languages"
+                }
+              },
+              "sitelinks": {
+                "arwiki": {
+                  "site": "arwiki",
+                  "title": "الإنجليزية لغة ثانية",
+                  "badges": []
+                },
+                "azwiki": {
+                  "site": "azwiki",
+                  "title": "İngilis dili ikinci və ya xarici dil kimi",
+                  "badges": []
+                },
+                "dewiki": {
+                  "site": "dewiki",
+                  "title": "Englisch als Zweitsprache",
+                  "badges": []
+                },
+                "enwiki": {
+                  "site": "enwiki",
+                  "title": "English as a second or foreign language",
+                  "badges": []
+                },
+                "enwikiversity": {
+                  "site": "enwikiversity",
+                  "title": "TESOL",
+                  "badges": []
+                },
+                "eswiki": {
+                  "site": "eswiki",
+                  "title": "Inglés como segunda lengua",
+                  "badges": []
+                },
+                "fawiki": {
+                  "site": "fawiki",
+                  "title": "انگلیسی به عنوان زبان دوم یا خارجی",
+                  "badges": []
+                },
+                "fiwiki": {
+                  "site": "fiwiki",
+                  "title": "Englannin kielen opetus vieraana kielenä",
+                  "badges": []
+                },
+                "idwiki": {
+                  "site": "idwiki",
+                  "title": "Bahasa Inggris sebagai bahasa kedua",
+                  "badges": []
+                },
+                "kowiki": {
+                  "site": "kowiki",
+                  "title": "제2언어 또는 외국어로서의 영어",
+                  "badges": []
+                },
+                "rnwiki": {
+                  "site": "rnwiki",
+                  "title": "Icongereza ka rurimi rwa kabiri",
+                  "badges": []
+                },
+                "simplewiki": {
+                  "site": "simplewiki",
+                  "title": "English as a second language",
+                  "badges": []
+                },
+                "tawiki": {
+                  "site": "tawiki",
+                  "title": "இரண்டாம் மொழியாக ஆங்கிலம்",
+                  "badges": []
+                },
+                "trwiki": {
+                  "site": "trwiki",
+                  "title": "Yabancı dil olarak İngilizce eğitimi",
+                  "badges": []
+                },
+                "zhwiki": {
+                  "site": "zhwiki",
+                  "title": "以英語為第二語言或外語",
+                  "badges": []
+                },
+                "zhwikiversity": {
+                  "site": "zhwikiversity",
+                  "title": "TESOL",
+                  "badges": []
+                }
+              }
+            }
+          },
+          "success": 1
+        }
+      },
+      {
+        "url": "https://de.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=Englisch+als+Zweitsprache",
+        "fetched_at": "2026-09-22T15:45:09.474397+00:00",
+        "sha256": "c94bf10b78a7c867161a984e779f9cf7c9b9ed5e272366690563adac32d8eb15",
+        "status": 200,
+        "data": {
+          "batchcomplete": true,
+          "query": {
+            "pages": [
+              {
+                "pageid": 1752610,
+                "ns": 0,
+                "title": "Englisch als Zweitsprache",
+                "pageprops": {
+                  "wikibase_item": "Q130192"
+                },
+                "contentmodel": "wikitext",
+                "pagelanguage": "de",
+                "pagelanguagehtmlcode": "de",
+                "pagelanguagedir": "ltr",
+                "touched": "2026-02-18T19:21:40Z",
+                "lastrevid": 251286770,
+                "length": 887
+              }
+            ]
+          }
+        }
+      },
+      {
+        "url": "https://es.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=Ingl%C3%A9s+como+segunda+lengua",
+        "fetched_at": "2026-09-22T15:45:10.079025+00:00",
+        "sha256": "0f5f74c02edaa4c01b4ff2ba8142869b16ec51cfa0603af13cac232bf5af71d9",
+        "status": 200,
+        "data": {
+          "batchcomplete": true,
+          "query": {
+            "pages": [
+              {
+                "pageid": 9992677,
+                "ns": 0,
+                "title": "Inglés como segunda lengua",
+                "pageprops": {
+                  "wikibase_item": "Q130192"
+                },
+                "contentmodel": "wikitext",
+                "pagelanguage": "es",
+                "pagelanguagehtmlcode": "es",
+                "pagelanguagedir": "ltr",
+                "touched": "2026-09-14T02:39:17Z",
+                "lastrevid": 174825397,
+                "length": 20967
+              }
+            ]
+          }
+        }
+      },
+      {
+        "url": "https://fi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=Englannin+kielen+opetus+vieraana+kielen%C3%A4",
+        "fetched_at": "2026-09-22T15:45:10.585436+00:00",
+        "sha256": "cf2e8f74fbaa3a4f25657515fbcad222a8715269182df572f52caeb00040b3c0",
+        "status": 200,
+        "data": {
+          "batchcomplete": true,
+          "query": {
+            "pages": [
+              {
+                "pageid": 1752081,
+                "ns": 0,
+                "title": "Englannin kielen opetus vieraana kielenä",
+                "pageprops": {
+                  "wikibase_item": "Q130192"
+                },
+                "contentmodel": "wikitext",
+                "pagelanguage": "fi",
+                "pagelanguagehtmlcode": "fi",
+                "pagelanguagedir": "ltr",
+                "touched": "2026-05-10T14:32:35Z",
+                "lastrevid": 22649569,
+                "length": 4982
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/de.wikipedia/all-access/user/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:46:07.920499+00:00",
+      "sha256": "d61eae037c99bcd0f624d9b0cab877ef2d73a6c1be096afe350a3ccd33343345",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "views": 945395026
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "views": 813034453
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "views": 845578385
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "views": 798592186
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "views": 804945994
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "views": 773303565
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "views": 782995014
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "views": 779537811
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "views": 746521495
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "views": 804199250
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "views": 764932003
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "views": 812305022
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/de.wikipedia/all-access/user/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:46:08.213623+00:00",
+      "sha256": "96dd9ac21c432e4049ba2e017256e0c81f431567b08b2958b0deee998863cddc",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "views": 902194788
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "views": 768465579
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "views": 806741813
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "views": 736284306
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "views": 712160095
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "views": 643354804
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "views": 695348128
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "views": 736793813
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "views": 696111150
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "views": 748632593
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "views": 733914764
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "views": 705194251
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/de.wikipedia/all-access/user/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:46:08.498005+00:00",
+      "sha256": "ece7c39a439bf112f9933586fd2b280259120dcbef51e9dfc20933614531eb74",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "views": 780199458
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "views": 672194020
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "views": 693410501
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "views": 662879466
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "views": 702429083
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "views": 682993791
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "views": 693723660
+          },
+          {
+            "project": "de.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "views": 687413224
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia/all-access/user/Englisch_als_Zweitsprache/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:46:08.807982+00:00",
+      "sha256": "434a3a2c11d3c335738707e0e43124dfa863528a96dca976720765186684ed1d",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 158
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 115
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 103
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 129
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 136
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 101
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 99
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 119
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 91
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 104
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia/all-access/user/Englisch_als_Zweitsprache/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:46:09.409646+00:00",
+      "sha256": "924d03d5ae678ca5cf89f76c73473fee4efd8111327034c6c906718fdfe2d76b",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 172
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 111
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 142
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 94
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 107
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 77
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 101
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 99
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 87
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 70
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 85
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 48
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia/all-access/user/Englisch_als_Zweitsprache/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:46:10.206281+00:00",
+      "sha256": "0c2a99f3edb8610db91a18b4fce5e66cdce0ed4e5c35a5b95f59346179668b59",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 93
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 68
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 71
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 79
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 68
+          },
+          {
+            "project": "de.wikipedia",
+            "article": "Englisch_als_Zweitsprache",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 38
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/es.wikipedia/all-access/user/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:46:10.707932+00:00",
+      "sha256": "ea23a02cdfe7b2289313b564d80a531ca154c023b65c66b8c3f7d56aa1ae346e",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "views": 928810810
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "views": 862298141
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "views": 899907492
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "views": 890367768
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "views": 847358735
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "views": 753216271
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "views": 737743929
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "views": 745635742
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "views": 744845702
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "views": 808890367
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "views": 727894684
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "views": 663313007
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/es.wikipedia/all-access/user/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:46:11.776678+00:00",
+      "sha256": "1d666ca0fefef401aba8179920562e435b0310af6205141ad1646d4a06255d7b",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "views": 764320442
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "views": 690775995
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "views": 741966927
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "views": 652504347
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "views": 662035828
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "views": 593982866
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "views": 606751904
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "views": 598455589
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "views": 577761290
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "views": 606733989
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "views": 588079817
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "views": 508726089
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/es.wikipedia/all-access/user/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:46:12.676138+00:00",
+      "sha256": "fe5a218dfdc2b358b4abce152a147d10aa8e030f6f0e0614610a93bd106d7891",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "views": 596404635
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "views": 544123493
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "views": 521759780
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "views": 513428595
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "views": 519845891
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "views": 518358752
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "views": 528878589
+          },
+          {
+            "project": "es.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "views": 508871577
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/all-access/user/Ingl%C3%A9s_como_segunda_lengua/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:46:13.238927+00:00",
+      "sha256": "d3ea63e103e0cc084c662b6caed6bd7947fe37e75988c3b2ced3d0864ec6e1ae",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 377
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 466
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 391
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 501
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 408
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 374
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 290
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 283
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 304
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 314
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 277
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 213
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/all-access/user/Ingl%C3%A9s_como_segunda_lengua/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:47:50.910522+00:00",
+      "sha256": "f4e677c553e98a16a8264f4284d5906a15b9daff84e8cbdbc48b4beb669e9fa4",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 294
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 300
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 341
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 205
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 210
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 152
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 149
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 156
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 147
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 155
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 127
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/all-access/user/Ingl%C3%A9s_como_segunda_lengua/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:47:51.346392+00:00",
+      "sha256": "f3936d6df4afe84aea4ec31c497e06e13540932997758eff06d863fa98aeaefe",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 118
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 99
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 105
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 114
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 105
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 103
+          },
+          {
+            "project": "es.wikipedia",
+            "article": "Inglés_como_segunda_lengua",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 110
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/fi.wikipedia/all-access/user/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:47:51.796673+00:00",
+      "sha256": "8cdb4763c50b37e18ac41338ef9e6e68af58649e20beed894652d211cc4d3b64",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "views": 60248835
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "views": 52071519
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "views": 55144245
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "views": 52545613
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "views": 49889809
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "views": 45808480
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "views": 50644987
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "views": 51742753
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "views": 48971308
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "views": 51538615
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "views": 51213362
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "views": 56377904
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/fi.wikipedia/all-access/user/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:47:52.365227+00:00",
+      "sha256": "c8ef8b691e851806dfa5aba367b8fbb9101f7b37f9c259ab813f331726d2a118",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "views": 63817576
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "views": 53893506
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "views": 56466659
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "views": 54287469
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "views": 48091011
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "views": 40960022
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "views": 48408018
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "views": 50319727
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "views": 50787037
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "views": 50571780
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "views": 60987590
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "views": 51152024
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/fi.wikipedia/all-access/user/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:47:52.921443+00:00",
+      "sha256": "4cdd0af392543ce4c213e3a2930f4ff289e25a09ad047721843bb20375811328",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "views": 52549693
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "views": 45923042
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "views": 47207314
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "views": 44435515
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "views": 48003485
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "views": 45306436
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "views": 49169574
+          },
+          {
+            "project": "fi.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "views": 47471198
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/fi.wikipedia/all-access/user/Englannin_kielen_opetus_vieraana_kielen%C3%A4/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:47:53.312627+00:00",
+      "sha256": "491de640bb326a18158230fc97ab6a66719fe50807e10a2823c4344b44adf44f",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/fi.wikipedia/all-access/user/Englannin_kielen_opetus_vieraana_kielen%C3%A4/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:47:53.716442+00:00",
+      "sha256": "3beb076c32633301270f3a8393144e8a12f45fa5572823fc3514ee2690e6dbd6",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/fi.wikipedia/all-access/user/Englannin_kielen_opetus_vieraana_kielen%C3%A4/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:47:54.065925+00:00",
+      "sha256": "df054a5cd3df45a8e5d869848e77d456328f66a92422764ec05c11aadaab8905",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12
+          },
+          {
+            "project": "fi.wikipedia",
+            "article": "Englannin_kielen_opetus_vieraana_kielenä",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11
+          }
+        ]
+      }
+    }
+  ],
+  "sha256": "78da911d52feeb8d8a275663e53ab21144eb74311273cad2ad639c755ef84275"
+}

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+# Preserve archived evidence byte-for-byte so its SHA-256 manifests remain valid.
+examples/** -text
+evaluations/** -text
+*.pdf binary
+*.png binary
+*.csv -text whitespace=cr-at-eol

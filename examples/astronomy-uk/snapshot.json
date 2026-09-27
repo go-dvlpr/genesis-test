@@ -1,0 +1,2321 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-22T15:45:52.670031+00:00",
+  "fetched_at": "2026-09-22T15:38:51.301804+00:00",
+  "as_of": "2026-08",
+  "plan": {
+    "schema_version": 1,
+    "topic": "Астрономія: увага до теми",
+    "report_language": "uk",
+    "topics": [
+      {
+        "qid": "Q333",
+        "label": "astronomy",
+        "description": "natural science studying celestial objects and phenomena in the cosmos"
+      }
+    ],
+    "projects": [
+      {
+        "language": "uk",
+        "pages": [
+          {
+            "qid": "Q333",
+            "title": "Астрономія",
+            "pageid": 827,
+            "revision_id": 48432874,
+            "url": "https://uk.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F",
+            "requested_title": "Астрономія"
+          }
+        ]
+      }
+    ],
+    "start": "2024-09",
+    "end": "2026-08",
+    "access": "all-access",
+    "agent": "user",
+    "granularity": "monthly",
+    "created_at": "2026-09-22T15:45:44.511957+00:00",
+    "criteria": {
+      "min_annual_views": 1000,
+      "growth_threshold_pct": 10
+    },
+    "resolution_sources": [
+      {
+        "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=2&ids=Q333&languages=en&props=labels%7Cdescriptions%7Csitelinks",
+        "fetched_at": "2026-09-22T15:38:40.894309+00:00",
+        "sha256": "ddb122632066d85b0de32edcc67855064d986b27f96fbd7f64046291d7d0462f",
+        "status": 200,
+        "data": {
+          "entities": {
+            "Q333": {
+              "type": "item",
+              "id": "Q333",
+              "labels": {
+                "en": {
+                  "language": "en",
+                  "value": "astronomy"
+                }
+              },
+              "descriptions": {
+                "en": {
+                  "language": "en",
+                  "value": "natural science studying celestial objects and phenomena in the cosmos"
+                }
+              },
+              "sitelinks": {
+                "abstractwiki": {
+                  "site": "abstractwiki",
+                  "title": "Q333",
+                  "badges": []
+                },
+                "abwiki": {
+                  "site": "abwiki",
+                  "title": "Астрономиа",
+                  "badges": []
+                },
+                "afwiki": {
+                  "site": "afwiki",
+                  "title": "Sterrekunde",
+                  "badges": []
+                },
+                "afwikibooks": {
+                  "site": "afwikibooks",
+                  "title": "Sterrekunde",
+                  "badges": []
+                },
+                "alswiki": {
+                  "site": "alswiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "amwiki": {
+                  "site": "amwiki",
+                  "title": "ሥነ ፈለክ",
+                  "badges": []
+                },
+                "angwiki": {
+                  "site": "angwiki",
+                  "title": "Tungolcræft",
+                  "badges": []
+                },
+                "anpwiki": {
+                  "site": "anpwiki",
+                  "title": "खगोल शास्त्र",
+                  "badges": []
+                },
+                "anwiki": {
+                  "site": "anwiki",
+                  "title": "Astronomía",
+                  "badges": []
+                },
+                "arcwiki": {
+                  "site": "arcwiki",
+                  "title": "ܡܡܠܠܘܬ ܟܘܟܒܐ",
+                  "badges": []
+                },
+                "arwiki": {
+                  "site": "arwiki",
+                  "title": "علم الفلك",
+                  "badges": [
+                    "Q17437798"
+                  ]
+                },
+                "arwikibooks": {
+                  "site": "arwikibooks",
+                  "title": "علم الفلك",
+                  "badges": []
+                },
+                "arwikinews": {
+                  "site": "arwikinews",
+                  "title": "تصنيف:علم الفلك",
+                  "badges": []
+                },
+                "arwikiversity": {
+                  "site": "arwikiversity",
+                  "title": "علم الفلك",
+                  "badges": []
+                },
+                "arywiki": {
+                  "site": "arywiki",
+                  "title": "علم د لفلك",
+                  "badges": []
+                },
+                "arzwiki": {
+                  "site": "arzwiki",
+                  "title": "فلك",
+                  "badges": []
+                },
+                "astwiki": {
+                  "site": "astwiki",
+                  "title": "Astronomía",
+                  "badges": []
+                },
+                "aswiki": {
+                  "site": "aswiki",
+                  "title": "জ্যোতিৰ্বিজ্ঞান",
+                  "badges": []
+                },
+                "avwiki": {
+                  "site": "avwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "aywiki": {
+                  "site": "aywiki",
+                  "title": "Alaxpacha yänakata",
+                  "badges": []
+                },
+                "azbwiki": {
+                  "site": "azbwiki",
+                  "title": "آسترونومی",
+                  "badges": []
+                },
+                "azwiki": {
+                  "site": "azwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "azwikiquote": {
+                  "site": "azwikiquote",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "banwiki": {
+                  "site": "banwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "barwiki": {
+                  "site": "barwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "bat_smgwiki": {
+                  "site": "bat_smgwiki",
+                  "title": "Astruonuomėjė",
+                  "badges": []
+                },
+                "bawiki": {
+                  "site": "bawiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "bclwiki": {
+                  "site": "bclwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "be_x_oldwiki": {
+                  "site": "be_x_oldwiki",
+                  "title": "Астраномія",
+                  "badges": []
+                },
+                "bewiki": {
+                  "site": "bewiki",
+                  "title": "Астраномія",
+                  "badges": []
+                },
+                "bewwiki": {
+                  "site": "bewwiki",
+                  "title": "Èlmu palak",
+                  "badges": []
+                },
+                "bgwiki": {
+                  "site": "bgwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "bgwikinews": {
+                  "site": "bgwikinews",
+                  "title": "Категория:Астрономия",
+                  "badges": []
+                },
+                "bhwiki": {
+                  "site": "bhwiki",
+                  "title": "खगोलिकी",
+                  "badges": []
+                },
+                "biwiki": {
+                  "site": "biwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "bjnwiki": {
+                  "site": "bjnwiki",
+                  "title": "Kaji tawas langit",
+                  "badges": []
+                },
+                "blkwiki": {
+                  "site": "blkwiki",
+                  "title": "နက္ခတ္တဗေဒ",
+                  "badges": []
+                },
+                "bmwiki": {
+                  "site": "bmwiki",
+                  "title": "Dolokalan",
+                  "badges": []
+                },
+                "bnwiki": {
+                  "site": "bnwiki",
+                  "title": "জ্যোতির্বিজ্ঞান",
+                  "badges": []
+                },
+                "bnwikibooks": {
+                  "site": "bnwikibooks",
+                  "title": "জ্যোতির্বিজ্ঞান",
+                  "badges": []
+                },
+                "bnwikiquote": {
+                  "site": "bnwikiquote",
+                  "title": "জ্যোতির্বিজ্ঞান",
+                  "badges": []
+                },
+                "brwiki": {
+                  "site": "brwiki",
+                  "title": "Steredoniezh",
+                  "badges": []
+                },
+                "bswiki": {
+                  "site": "bswiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "btmwiki": {
+                  "site": "btmwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "bxrwiki": {
+                  "site": "bxrwiki",
+                  "title": "Одон орон шудалал",
+                  "badges": []
+                },
+                "cawiki": {
+                  "site": "cawiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "cawikinews": {
+                  "site": "cawikinews",
+                  "title": "Categoria:Astronomia",
+                  "badges": []
+                },
+                "cbk_zamwiki": {
+                  "site": "cbk_zamwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "cdowiki": {
+                  "site": "cdowiki",
+                  "title": "Tiĕng-ùng",
+                  "badges": []
+                },
+                "cebwiki": {
+                  "site": "cebwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "cewiki": {
+                  "site": "cewiki",
+                  "title": "Астрономи",
+                  "badges": []
+                },
+                "ckbwiki": {
+                  "site": "ckbwiki",
+                  "title": "ئەستێرەناسی",
+                  "badges": []
+                },
+                "commonswiki": {
+                  "site": "commonswiki",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "cowiki": {
+                  "site": "cowiki",
+                  "title": "Astronumia",
+                  "badges": []
+                },
+                "csbwiki": {
+                  "site": "csbwiki",
+                  "title": "Astronomiô",
+                  "badges": []
+                },
+                "cswiki": {
+                  "site": "cswiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "cswikinews": {
+                  "site": "cswikinews",
+                  "title": "Kategorie:Astronomie",
+                  "badges": []
+                },
+                "cswikiquote": {
+                  "site": "cswikiquote",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "cvwiki": {
+                  "site": "cvwiki",
+                  "title": "Астрономи",
+                  "badges": []
+                },
+                "cywiki": {
+                  "site": "cywiki",
+                  "title": "Seryddiaeth",
+                  "badges": []
+                },
+                "dawiki": {
+                  "site": "dawiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "dewiki": {
+                  "site": "dewiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "dewikibooks": {
+                  "site": "dewikibooks",
+                  "title": "Einführung in die Astronomie",
+                  "badges": []
+                },
+                "dewikinews": {
+                  "site": "dewikinews",
+                  "title": "Kategorie:Astronomie",
+                  "badges": []
+                },
+                "dewikiquote": {
+                  "site": "dewikiquote",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "dinwiki": {
+                  "site": "dinwiki",
+                  "title": "Ŋiɛ̈ckanhial",
+                  "badges": []
+                },
+                "diqwiki": {
+                  "site": "diqwiki",
+                  "title": "Asmênşınasiye",
+                  "badges": []
+                },
+                "dsbwiki": {
+                  "site": "dsbwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "dtpwiki": {
+                  "site": "dtpwiki",
+                  "title": "Astoronomi",
+                  "badges": []
+                },
+                "dvwiki": {
+                  "site": "dvwiki",
+                  "title": "ފަލަކީ އިލްމު",
+                  "badges": []
+                },
+                "elwiki": {
+                  "site": "elwiki",
+                  "title": "Αστρονομία",
+                  "badges": []
+                },
+                "emlwiki": {
+                  "site": "emlwiki",
+                  "title": "Astronomî",
+                  "badges": []
+                },
+                "enwiki": {
+                  "site": "enwiki",
+                  "title": "Astronomy",
+                  "badges": [
+                    "Q17437798"
+                  ]
+                },
+                "enwikibooks": {
+                  "site": "enwikibooks",
+                  "title": "General Astronomy",
+                  "badges": []
+                },
+                "enwikinews": {
+                  "site": "enwikinews",
+                  "title": "Category:Astronomy",
+                  "badges": []
+                },
+                "enwikiquote": {
+                  "site": "enwikiquote",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "enwikiversity": {
+                  "site": "enwikiversity",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "enwikivoyage": {
+                  "site": "enwikivoyage",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "eowiki": {
+                  "site": "eowiki",
+                  "title": "Astronomio",
+                  "badges": []
+                },
+                "eowikinews": {
+                  "site": "eowikinews",
+                  "title": "Kategorio:Astronomio",
+                  "badges": []
+                },
+                "eowikiquote": {
+                  "site": "eowikiquote",
+                  "title": "Astronomio",
+                  "badges": []
+                },
+                "eswiki": {
+                  "site": "eswiki",
+                  "title": "Astronomía",
+                  "badges": []
+                },
+                "eswikibooks": {
+                  "site": "eswikibooks",
+                  "title": "Física/Astronomía",
+                  "badges": []
+                },
+                "eswikinews": {
+                  "site": "eswikinews",
+                  "title": "Categoría:Astronomía",
+                  "badges": []
+                },
+                "eswikiquote": {
+                  "site": "eswikiquote",
+                  "title": "Astronomía",
+                  "badges": []
+                },
+                "eswikivoyage": {
+                  "site": "eswikivoyage",
+                  "title": "Astronomía",
+                  "badges": []
+                },
+                "etwiki": {
+                  "site": "etwiki",
+                  "title": "Astronoomia",
+                  "badges": []
+                },
+                "etwikiquote": {
+                  "site": "etwikiquote",
+                  "title": "Astronoomia",
+                  "badges": []
+                },
+                "euwiki": {
+                  "site": "euwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "extwiki": {
+                  "site": "extwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "fawiki": {
+                  "site": "fawiki",
+                  "title": "اخترشناسی",
+                  "badges": []
+                },
+                "fawikibooks": {
+                  "site": "fawikibooks",
+                  "title": "فرهنگ نجوم",
+                  "badges": []
+                },
+                "fawikinews": {
+                  "site": "fawikinews",
+                  "title": "رده:ستاره‌شناسی",
+                  "badges": []
+                },
+                "fawikiquote": {
+                  "site": "fawikiquote",
+                  "title": "اخترشناسی",
+                  "badges": []
+                },
+                "ffwiki": {
+                  "site": "ffwiki",
+                  "title": "Astoronomy",
+                  "badges": []
+                },
+                "fiu_vrowiki": {
+                  "site": "fiu_vrowiki",
+                  "title": "Tähetiidüs",
+                  "badges": []
+                },
+                "fiwiki": {
+                  "site": "fiwiki",
+                  "title": "Tähtitiede",
+                  "badges": []
+                },
+                "fiwikibooks": {
+                  "site": "fiwikibooks",
+                  "title": "Tähtitiede",
+                  "badges": []
+                },
+                "fjwiki": {
+                  "site": "fjwiki",
+                  "title": "Maliwalala",
+                  "badges": []
+                },
+                "fowiki": {
+                  "site": "fowiki",
+                  "title": "Stjørnufrøði",
+                  "badges": []
+                },
+                "frpwiki": {
+                  "site": "frpwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "frrwiki": {
+                  "site": "frrwiki",
+                  "title": "Stäärkunde",
+                  "badges": []
+                },
+                "frwiki": {
+                  "site": "frwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "frwikinews": {
+                  "site": "frwikinews",
+                  "title": "Catégorie:Astronomie",
+                  "badges": []
+                },
+                "furwiki": {
+                  "site": "furwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "fywiki": {
+                  "site": "fywiki",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "ganwiki": {
+                  "site": "ganwiki",
+                  "title": "天文學",
+                  "badges": []
+                },
+                "gawiki": {
+                  "site": "gawiki",
+                  "title": "Réalteolaíocht",
+                  "badges": []
+                },
+                "gcrwiki": {
+                  "site": "gcrwiki",
+                  "title": "Lastronnonmi",
+                  "badges": []
+                },
+                "gdwiki": {
+                  "site": "gdwiki",
+                  "title": "Reul-eòlas",
+                  "badges": []
+                },
+                "glwiki": {
+                  "site": "glwiki",
+                  "title": "Astronomía",
+                  "badges": []
+                },
+                "gnwiki": {
+                  "site": "gnwiki",
+                  "title": "Mbyjakuaa",
+                  "badges": []
+                },
+                "guwiki": {
+                  "site": "guwiki",
+                  "title": "ખગોળશાસ્ત્ર",
+                  "badges": []
+                },
+                "gvwiki": {
+                  "site": "gvwiki",
+                  "title": "Rollageydys",
+                  "badges": []
+                },
+                "hakwiki": {
+                  "site": "hakwiki",
+                  "title": "Thiên-vùn-ho̍k",
+                  "badges": []
+                },
+                "hawwiki": {
+                  "site": "hawwiki",
+                  "title": "Kilo hōkū",
+                  "badges": []
+                },
+                "hewiki": {
+                  "site": "hewiki",
+                  "title": "אסטרונומיה",
+                  "badges": []
+                },
+                "hewikiquote": {
+                  "site": "hewikiquote",
+                  "title": "אסטרונומיה",
+                  "badges": []
+                },
+                "hewikivoyage": {
+                  "site": "hewikivoyage",
+                  "title": "אסטרונומיה",
+                  "badges": []
+                },
+                "hifwiki": {
+                  "site": "hifwiki",
+                  "title": "Taara vigyan",
+                  "badges": []
+                },
+                "hiwiki": {
+                  "site": "hiwiki",
+                  "title": "खगोल शास्त्र",
+                  "badges": []
+                },
+                "hrwiki": {
+                  "site": "hrwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "hsbwiki": {
+                  "site": "hsbwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "htwiki": {
+                  "site": "htwiki",
+                  "title": "Astwonomi",
+                  "badges": []
+                },
+                "huwiki": {
+                  "site": "huwiki",
+                  "title": "Csillagászat",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "hywiki": {
+                  "site": "hywiki",
+                  "title": "Աստղագիտություն",
+                  "badges": []
+                },
+                "hywwiki": {
+                  "site": "hywwiki",
+                  "title": "Աստղագիտութիւն",
+                  "badges": []
+                },
+                "iawiki": {
+                  "site": "iawiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "ibawiki": {
+                  "site": "ibawiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "idwiki": {
+                  "site": "idwiki",
+                  "title": "Astronomi",
+                  "badges": [
+                    "Q17437798"
+                  ]
+                },
+                "idwikivoyage": {
+                  "site": "idwikivoyage",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "iewiki": {
+                  "site": "iewiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "ilowiki": {
+                  "site": "ilowiki",
+                  "title": "Astronomia",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "inhwiki": {
+                  "site": "inhwiki",
+                  "title": "АйламӀилма",
+                  "badges": []
+                },
+                "iowiki": {
+                  "site": "iowiki",
+                  "title": "Astronomio",
+                  "badges": []
+                },
+                "isvwiki": {
+                  "site": "isvwiki",
+                  "title": "Zvězdoznavstvo",
+                  "badges": []
+                },
+                "iswiki": {
+                  "site": "iswiki",
+                  "title": "Stjörnufræði",
+                  "badges": []
+                },
+                "itwiki": {
+                  "site": "itwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "itwikinews": {
+                  "site": "itwikinews",
+                  "title": "Categoria:Astronomia",
+                  "badges": []
+                },
+                "itwikiquote": {
+                  "site": "itwikiquote",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "iuwiki": {
+                  "site": "iuwiki",
+                  "title": "ᓯᓚᓯᐅᕐᓂᖅ",
+                  "badges": []
+                },
+                "jamwiki": {
+                  "site": "jamwiki",
+                  "title": "Aschranami",
+                  "badges": []
+                },
+                "jawiki": {
+                  "site": "jawiki",
+                  "title": "天文学",
+                  "badges": []
+                },
+                "jawikibooks": {
+                  "site": "jawikibooks",
+                  "title": "天文学",
+                  "badges": []
+                },
+                "jawikinews": {
+                  "site": "jawikinews",
+                  "title": "カテゴリ:天文学",
+                  "badges": []
+                },
+                "jawikiversity": {
+                  "site": "jawikiversity",
+                  "title": "Topic:天文学",
+                  "badges": []
+                },
+                "jbowiki": {
+                  "site": "jbowiki",
+                  "title": "kesyske",
+                  "badges": []
+                },
+                "jvwiki": {
+                  "site": "jvwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "kaawiki": {
+                  "site": "kaawiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "kabwiki": {
+                  "site": "kabwiki",
+                  "title": "Tasnallunt",
+                  "badges": []
+                },
+                "kawiki": {
+                  "site": "kawiki",
+                  "title": "ასტრონომია",
+                  "badges": []
+                },
+                "kkwiki": {
+                  "site": "kkwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "kmwiki": {
+                  "site": "kmwiki",
+                  "title": "តារាវិទ្យា",
+                  "badges": []
+                },
+                "kncwiki": {
+                  "site": "kncwiki",
+                  "title": "Ilmu Falak bǝ",
+                  "badges": []
+                },
+                "knwiki": {
+                  "site": "knwiki",
+                  "title": "ಖಗೋಳಶಾಸ್ತ್ರ",
+                  "badges": []
+                },
+                "kowiki": {
+                  "site": "kowiki",
+                  "title": "천문학",
+                  "badges": []
+                },
+                "kowikibooks": {
+                  "site": "kowikibooks",
+                  "title": "위키책:천문학",
+                  "badges": []
+                },
+                "kowikinews": {
+                  "site": "kowikinews",
+                  "title": "분류:천문학",
+                  "badges": []
+                },
+                "kowikiversity": {
+                  "site": "kowikiversity",
+                  "title": "천문학",
+                  "badges": []
+                },
+                "krcwiki": {
+                  "site": "krcwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "kswiki": {
+                  "site": "kswiki",
+                  "title": "فَلکِیات",
+                  "badges": []
+                },
+                "kuwiki": {
+                  "site": "kuwiki",
+                  "title": "Stêrnasî",
+                  "badges": []
+                },
+                "kwwiki": {
+                  "site": "kwwiki",
+                  "title": "Steronieth",
+                  "badges": []
+                },
+                "kywiki": {
+                  "site": "kywiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "ladwiki": {
+                  "site": "ladwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "lawiki": {
+                  "site": "lawiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "lbewiki": {
+                  "site": "lbewiki",
+                  "title": "ЦӀурттал элму",
+                  "badges": []
+                },
+                "lbwiki": {
+                  "site": "lbwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "lezwiki": {
+                  "site": "lezwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "lfnwiki": {
+                  "site": "lfnwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "lgwiki": {
+                  "site": "lgwiki",
+                  "title": "Essomabwengula",
+                  "badges": []
+                },
+                "lijwiki": {
+                  "site": "lijwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "liwiki": {
+                  "site": "liwiki",
+                  "title": "Starekunde",
+                  "badges": []
+                },
+                "lldwiki": {
+                  "site": "lldwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "lmowiki": {
+                  "site": "lmowiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "lnwiki": {
+                  "site": "lnwiki",
+                  "title": "Mambí ma nzɔ́tɔ",
+                  "badges": []
+                },
+                "lowiki": {
+                  "site": "lowiki",
+                  "title": "ດາລາສາດ",
+                  "badges": []
+                },
+                "ltwiki": {
+                  "site": "ltwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "lvwiki": {
+                  "site": "lvwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "madwiki": {
+                  "site": "madwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "magwiki": {
+                  "site": "magwiki",
+                  "title": "खगोलशास्त्र",
+                  "badges": []
+                },
+                "map_bmswiki": {
+                  "site": "map_bmswiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "mgwiki": {
+                  "site": "mgwiki",
+                  "title": "Haikintana",
+                  "badges": []
+                },
+                "mhrwiki": {
+                  "site": "mhrwiki",
+                  "title": "Астрономий",
+                  "badges": []
+                },
+                "minwiki": {
+                  "site": "minwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "miwiki": {
+                  "site": "miwiki",
+                  "title": "Tātai arorangi",
+                  "badges": []
+                },
+                "mkwiki": {
+                  "site": "mkwiki",
+                  "title": "Астрономија",
+                  "badges": []
+                },
+                "mlwiki": {
+                  "site": "mlwiki",
+                  "title": "ജ്യോതിഃശാസ്ത്രം",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "mniwiki": {
+                  "site": "mniwiki",
+                  "title": "ꯈꯦꯟꯆꯣꯡꯂꯣꯟ",
+                  "badges": []
+                },
+                "mnwiki": {
+                  "site": "mnwiki",
+                  "title": "Одон орон",
+                  "badges": []
+                },
+                "mnwwiki": {
+                  "site": "mnwwiki",
+                  "title": "ပညာအာကာသ",
+                  "badges": []
+                },
+                "mrwiki": {
+                  "site": "mrwiki",
+                  "title": "खगोलशास्त्र",
+                  "badges": []
+                },
+                "mswiki": {
+                  "site": "mswiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "mtwiki": {
+                  "site": "mtwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "mwlwiki": {
+                  "site": "mwlwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "mywiki": {
+                  "site": "mywiki",
+                  "title": "နက္ခတ္တဗေဒ",
+                  "badges": []
+                },
+                "mznwiki": {
+                  "site": "mznwiki",
+                  "title": "اساره‌دونی",
+                  "badges": []
+                },
+                "nahwiki": {
+                  "site": "nahwiki",
+                  "title": "Ilhuicamatiliztli",
+                  "badges": []
+                },
+                "napwiki": {
+                  "site": "napwiki",
+                  "title": "Astronumia",
+                  "badges": []
+                },
+                "nds_nlwiki": {
+                  "site": "nds_nlwiki",
+                  "title": "Steernskunde",
+                  "badges": []
+                },
+                "ndswiki": {
+                  "site": "ndswiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "newiki": {
+                  "site": "newiki",
+                  "title": "खगोल शास्त्र",
+                  "badges": []
+                },
+                "newwiki": {
+                  "site": "newwiki",
+                  "title": "खगोलशास्त्र",
+                  "badges": []
+                },
+                "niawiki": {
+                  "site": "niawiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "nlwiki": {
+                  "site": "nlwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "nlwikinews": {
+                  "site": "nlwikinews",
+                  "title": "Categorie:Astronomie",
+                  "badges": []
+                },
+                "nnwiki": {
+                  "site": "nnwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "novwiki": {
+                  "site": "novwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "nowiki": {
+                  "site": "nowiki",
+                  "title": "Astronomi",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "nqowiki": {
+                  "site": "nqowiki",
+                  "title": "ߛߊ߲ߡߊߛߓߍ",
+                  "badges": []
+                },
+                "nrmwiki": {
+                  "site": "nrmwiki",
+                  "title": "Astrononmie",
+                  "badges": []
+                },
+                "nsowiki": {
+                  "site": "nsowiki",
+                  "title": "Thutanaledi",
+                  "badges": []
+                },
+                "ocwiki": {
+                  "site": "ocwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "olowiki": {
+                  "site": "olowiki",
+                  "title": "Tiähtitiedo",
+                  "badges": []
+                },
+                "omwiki": {
+                  "site": "omwiki",
+                  "title": "Xin-hawaa",
+                  "badges": []
+                },
+                "oswiki": {
+                  "site": "oswiki",
+                  "title": "Астрономи",
+                  "badges": []
+                },
+                "pamwiki": {
+                  "site": "pamwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "pawiki": {
+                  "site": "pawiki",
+                  "title": "ਤਾਰਾ ਵਿਗਿਆਨ",
+                  "badges": []
+                },
+                "pcdwiki": {
+                  "site": "pcdwiki",
+                  "title": "Astrononmie",
+                  "badges": []
+                },
+                "pcmwiki": {
+                  "site": "pcmwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "plwiki": {
+                  "site": "plwiki",
+                  "title": "Astronomia",
+                  "badges": [
+                    "Q17437798"
+                  ]
+                },
+                "plwikinews": {
+                  "site": "plwikinews",
+                  "title": "Kategoria:Astronomia",
+                  "badges": []
+                },
+                "plwikiquote": {
+                  "site": "plwikiquote",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "pmswiki": {
+                  "site": "pmswiki",
+                  "title": "Astronomìa",
+                  "badges": []
+                },
+                "pnbwiki": {
+                  "site": "pnbwiki",
+                  "title": "تارا پڑھت",
+                  "badges": []
+                },
+                "pswiki": {
+                  "site": "pswiki",
+                  "title": "ستورپوهنه",
+                  "badges": []
+                },
+                "ptwiki": {
+                  "site": "ptwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "ptwikibooks": {
+                  "site": "ptwikibooks",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "ptwikinews": {
+                  "site": "ptwikinews",
+                  "title": "Categoria:Astronomia",
+                  "badges": []
+                },
+                "ptwikiquote": {
+                  "site": "ptwikiquote",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "quwiki": {
+                  "site": "quwiki",
+                  "title": "Quyllur yachay",
+                  "badges": []
+                },
+                "rkiwiki": {
+                  "site": "rkiwiki",
+                  "title": "နက္ခတ္တဗေဒ",
+                  "badges": []
+                },
+                "rmwiki": {
+                  "site": "rmwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "rmywiki": {
+                  "site": "rmywiki",
+                  "title": "Chexanipen",
+                  "badges": []
+                },
+                "roa_rupwiki": {
+                  "site": "roa_rupwiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "rowiki": {
+                  "site": "rowiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "ruewiki": {
+                  "site": "ruewiki",
+                  "title": "Астрономія",
+                  "badges": []
+                },
+                "ruwiki": {
+                  "site": "ruwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "ruwikibooks": {
+                  "site": "ruwikibooks",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "ruwikinews": {
+                  "site": "ruwikinews",
+                  "title": "Категория:Астрономия",
+                  "badges": []
+                },
+                "ruwikiquote": {
+                  "site": "ruwikiquote",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "sahwiki": {
+                  "site": "sahwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "sawiki": {
+                  "site": "sawiki",
+                  "title": "खगोलशास्त्रम्",
+                  "badges": []
+                },
+                "scnwiki": {
+                  "site": "scnwiki",
+                  "title": "Astrunumìa",
+                  "badges": []
+                },
+                "scowiki": {
+                  "site": "scowiki",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "scwiki": {
+                  "site": "scwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "sdwiki": {
+                  "site": "sdwiki",
+                  "title": "علمِ فلڪيات",
+                  "badges": []
+                },
+                "sgwiki": {
+                  "site": "sgwiki",
+                  "title": "Sêndâtongo",
+                  "badges": []
+                },
+                "shiwiki": {
+                  "site": "shiwiki",
+                  "title": "Tasnaggurt",
+                  "badges": []
+                },
+                "shwiki": {
+                  "site": "shwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "simplewiki": {
+                  "site": "simplewiki",
+                  "title": "Astronomy",
+                  "badges": []
+                },
+                "siwiki": {
+                  "site": "siwiki",
+                  "title": "තාරකා විද්‍යාව",
+                  "badges": []
+                },
+                "skrwiki": {
+                  "site": "skrwiki",
+                  "title": "فلکیات",
+                  "badges": []
+                },
+                "skwiki": {
+                  "site": "skwiki",
+                  "title": "Astronómia",
+                  "badges": []
+                },
+                "slwiki": {
+                  "site": "slwiki",
+                  "title": "Astronomija",
+                  "badges": []
+                },
+                "smwiki": {
+                  "site": "smwiki",
+                  "title": "Saienisi o fetū",
+                  "badges": []
+                },
+                "snwiki": {
+                  "site": "snwiki",
+                  "title": "Zvechadenga",
+                  "badges": []
+                },
+                "sowiki": {
+                  "site": "sowiki",
+                  "title": "Xiddigmaal",
+                  "badges": []
+                },
+                "sqwiki": {
+                  "site": "sqwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "sqwikiquote": {
+                  "site": "sqwikiquote",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "srwiki": {
+                  "site": "srwiki",
+                  "title": "Астрономија",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "srwikinews": {
+                  "site": "srwikinews",
+                  "title": "Категорија:Астрономија",
+                  "badges": []
+                },
+                "srwikiquote": {
+                  "site": "srwikiquote",
+                  "title": "Астрономија",
+                  "badges": []
+                },
+                "stqwiki": {
+                  "site": "stqwiki",
+                  "title": "Stiernkunde af Astronomie",
+                  "badges": []
+                },
+                "suwiki": {
+                  "site": "suwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "svwiki": {
+                  "site": "svwiki",
+                  "title": "Astronomi",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "svwikinews": {
+                  "site": "svwikinews",
+                  "title": "Kategori:Astronomi",
+                  "badges": []
+                },
+                "swwiki": {
+                  "site": "swwiki",
+                  "title": "Elimuanga",
+                  "badges": []
+                },
+                "szlwiki": {
+                  "site": "szlwiki",
+                  "title": "Astrōnōmijŏ",
+                  "badges": []
+                },
+                "tawiki": {
+                  "site": "tawiki",
+                  "title": "வானியல்",
+                  "badges": []
+                },
+                "tawikinews": {
+                  "site": "tawikinews",
+                  "title": "பகுப்பு:வானியல்",
+                  "badges": []
+                },
+                "tcywiki": {
+                  "site": "tcywiki",
+                  "title": "ಖಗೋಳ ಶಾಸ್ತ್ರ",
+                  "badges": []
+                },
+                "tetwiki": {
+                  "site": "tetwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "tewiki": {
+                  "site": "tewiki",
+                  "title": "ఖగోళ శాస్త్రం",
+                  "badges": []
+                },
+                "tgwiki": {
+                  "site": "tgwiki",
+                  "title": "Ахтаршиносӣ",
+                  "badges": []
+                },
+                "thwiki": {
+                  "site": "thwiki",
+                  "title": "ดาราศาสตร์",
+                  "badges": [
+                    "Q17437796"
+                  ]
+                },
+                "thwikibooks": {
+                  "site": "thwikibooks",
+                  "title": "ดาราศาสตร์ทั่วไป",
+                  "badges": []
+                },
+                "tiwiki": {
+                  "site": "tiwiki",
+                  "title": "ስነ-ኮኾብ",
+                  "badges": []
+                },
+                "tkwiki": {
+                  "site": "tkwiki",
+                  "title": "Astronomiýa",
+                  "badges": []
+                },
+                "tlwiki": {
+                  "site": "tlwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "tlywiki": {
+                  "site": "tlywiki",
+                  "title": "Astronomijə",
+                  "badges": []
+                },
+                "tokwiki": {
+                  "site": "tokwiki",
+                  "title": "sona mun",
+                  "badges": []
+                },
+                "tpiwiki": {
+                  "site": "tpiwiki",
+                  "title": "Estronomi",
+                  "badges": []
+                },
+                "trwiki": {
+                  "site": "trwiki",
+                  "title": "Astronomi",
+                  "badges": []
+                },
+                "trwikinews": {
+                  "site": "trwikinews",
+                  "title": "Kategori:Astronomi",
+                  "badges": []
+                },
+                "tswiki": {
+                  "site": "tswiki",
+                  "title": "Dyondzo-Tinyeleti",
+                  "badges": []
+                },
+                "ttwiki": {
+                  "site": "ttwiki",
+                  "title": "Астрономия",
+                  "badges": []
+                },
+                "ugwiki": {
+                  "site": "ugwiki",
+                  "title": "ئاسترونومىيە",
+                  "badges": []
+                },
+                "ukwiki": {
+                  "site": "ukwiki",
+                  "title": "Астрономія",
+                  "badges": []
+                },
+                "ukwikinews": {
+                  "site": "ukwikinews",
+                  "title": "Категорія:Астрономія",
+                  "badges": []
+                },
+                "ukwikiquote": {
+                  "site": "ukwikiquote",
+                  "title": "Астрономія",
+                  "badges": []
+                },
+                "urwiki": {
+                  "site": "urwiki",
+                  "title": "فلکیات",
+                  "badges": []
+                },
+                "uzwiki": {
+                  "site": "uzwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "vecwiki": {
+                  "site": "vecwiki",
+                  "title": "Astronomia",
+                  "badges": []
+                },
+                "vepwiki": {
+                  "site": "vepwiki",
+                  "title": "Astronomii",
+                  "badges": []
+                },
+                "viwiki": {
+                  "site": "viwiki",
+                  "title": "Thiên văn học",
+                  "badges": []
+                },
+                "viwikiquote": {
+                  "site": "viwikiquote",
+                  "title": "Thiên văn học",
+                  "badges": []
+                },
+                "vlswiki": {
+                  "site": "vlswiki",
+                  "title": "Astronomie",
+                  "badges": []
+                },
+                "vowiki": {
+                  "site": "vowiki",
+                  "title": "Stelav",
+                  "badges": []
+                },
+                "warwiki": {
+                  "site": "warwiki",
+                  "title": "Astronomiya",
+                  "badges": []
+                },
+                "wawiki": {
+                  "site": "wawiki",
+                  "title": "Astronomeye",
+                  "badges": []
+                },
+                "wowiki": {
+                  "site": "wowiki",
+                  "title": "Saytubiddiw",
+                  "badges": []
+                },
+                "wuuwiki": {
+                  "site": "wuuwiki",
+                  "title": "天文學",
+                  "badges": []
+                },
+                "xhwiki": {
+                  "site": "xhwiki",
+                  "title": "I-Astronomi",
+                  "badges": []
+                },
+                "xmfwiki": {
+                  "site": "xmfwiki",
+                  "title": "ასტრონომია",
+                  "badges": []
+                },
+                "yiwiki": {
+                  "site": "yiwiki",
+                  "title": "אסטראנאמיע",
+                  "badges": []
+                },
+                "yowiki": {
+                  "site": "yowiki",
+                  "title": "Ìtòràwọ̀",
+                  "badges": []
+                },
+                "zawiki": {
+                  "site": "zawiki",
+                  "title": "Denhvwnz",
+                  "badges": []
+                },
+                "zeawiki": {
+                  "site": "zeawiki",
+                  "title": "Staerrekunde",
+                  "badges": []
+                },
+                "zghwiki": {
+                  "site": "zghwiki",
+                  "title": "ⵜⴰⵙⵏⵉⵜⵔⵉⵜ",
+                  "badges": []
+                },
+                "zh_classicalwiki": {
+                  "site": "zh_classicalwiki",
+                  "title": "天文學",
+                  "badges": []
+                },
+                "zh_min_nanwiki": {
+                  "site": "zh_min_nanwiki",
+                  "title": "Thian-bûn-ha̍k",
+                  "badges": []
+                },
+                "zh_min_nanwikibooks": {
+                  "site": "zh_min_nanwikibooks",
+                  "title": "Thian-bûn-ha̍k",
+                  "badges": []
+                },
+                "zh_yuewiki": {
+                  "site": "zh_yuewiki",
+                  "title": "天文學",
+                  "badges": []
+                },
+                "zhwiki": {
+                  "site": "zhwiki",
+                  "title": "天文學",
+                  "badges": []
+                },
+                "zhwikibooks": {
+                  "site": "zhwikibooks",
+                  "title": "天文学",
+                  "badges": []
+                },
+                "zhwikinews": {
+                  "site": "zhwikinews",
+                  "title": "Category:天文",
+                  "badges": []
+                },
+                "zuwiki": {
+                  "site": "zuwiki",
+                  "title": "UMchazamkhathi",
+                  "badges": []
+                }
+              }
+            }
+          },
+          "success": 1
+        }
+      },
+      {
+        "url": "https://uk.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F",
+        "fetched_at": "2026-09-22T15:38:41.313040+00:00",
+        "sha256": "63ca78550b8c256916a56f413d896aec67dcbfe9d8e32d89dda2292fa5ca9db9",
+        "status": 200,
+        "data": {
+          "batchcomplete": true,
+          "query": {
+            "pages": [
+              {
+                "pageid": 827,
+                "ns": 0,
+                "title": "Астрономія",
+                "pageprops": {
+                  "wikibase_item": "Q333"
+                },
+                "contentmodel": "wikitext",
+                "pagelanguage": "uk",
+                "pagelanguagehtmlcode": "uk",
+                "pagelanguagedir": "ltr",
+                "touched": "2026-09-22T07:03:34Z",
+                "lastrevid": 48432874,
+                "length": 152861
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia/all-access/user/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:38:49.781099+00:00",
+      "sha256": "6eaae54b7e60227702bb488a5751e46761a04036f3cf51d7a43aff6458a57342",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "views": 115282138
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "views": 105744860
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "views": 102268020
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "views": 96763982
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "views": 92905741
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "views": 63376161
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "views": 59722919
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "views": 66081529
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "views": 74509285
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "views": 83014264
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "views": 83835060
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "views": 84431475
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia/all-access/user/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:38:50.087570+00:00",
+      "sha256": "b5713c921304f783683f8155db4a91d3d539d00b320d3aba8997b945f1f205db",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "views": 94111809
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "views": 81951788
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "views": 79609260
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "views": 72146878
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "views": 69040303
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "views": 53652676
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "views": 62209478
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "views": 61801817
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "views": 61256706
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "views": 66044662
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "views": 67137685
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "views": 55497356
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/uk.wikipedia/all-access/user/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:38:50.368180+00:00",
+      "sha256": "6b363307d828a98e73e2b354e917780d88cab60f449ff68c9207879030d7d7be",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "views": 60471976
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "views": 51614348
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "views": 55114806
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "views": 53385280
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "views": 55950057
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "views": 48312008
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "views": 52999047
+          },
+          {
+            "project": "uk.wikipedia",
+            "access": "all-access",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "views": 50720483
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/monthly/2024010100/2024123100",
+      "fetched_at": "2026-09-22T15:38:50.694942+00:00",
+      "sha256": "399832b20a9cac3868960f9187cf5dd39f923188a1752ceea4d53f36127d5238",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3700
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3206
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2140
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2216
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2018
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 959
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 637
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 754
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4687
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1776
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1746
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2024120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1634
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/monthly/2025010100/2025123100",
+      "fetched_at": "2026-09-22T15:38:50.995601+00:00",
+      "sha256": "2f1966d47d0c60f6caeb16a2b719e7d2fe9b6d5cf9c212c2db873b69ee6d83b4",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1558
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1296
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1068
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1019
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 789
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 361
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 305
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 375
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1642
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 635
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 557
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2025120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 622
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/uk.wikipedia/all-access/user/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F/monthly/2026010100/2026083100",
+      "fetched_at": "2026-09-22T15:38:51.301804+00:00",
+      "sha256": "d2621c2efdd7b188f51a6055028d5e643c4ce7b4228f51bdab82e6f8f2e97de6",
+      "status": 200,
+      "data": {
+        "items": [
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 449
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 425
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 410
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 405
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 600
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 281
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 322
+          },
+          {
+            "project": "uk.wikipedia",
+            "article": "Астрономія",
+            "granularity": "monthly",
+            "timestamp": "2026080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 360
+          }
+        ]
+      }
+    }
+  ],
+  "sha256": "1802a929d15f9e31915495f6dbf951aa081dbe70f686053ef19969d639163235"
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&formatversion=2&ids=Q130192&languages=en&props=labels%7Cdescriptions%7Csitelinks",
+    "fetched_at": "2026-09-22T15:41:31.130735+00:00",
+    "sha256": "76bc0b1117289e567d408f5a2fa5ecb32fb758c6f35f84824abd4b0ef5821f1c",
+    "status": 200
+  },
+  {
+    "url": "https://de.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=Englisch+als+Zweitsprache",
+    "fetched_at": "2026-09-22T15:45:09.474397+00:00",
+    "sha256": "c94bf10b78a7c867161a984e779f9cf7c9b9ed5e272366690563adac32d8eb15",
+    "status": 200
+  },
+  {
+    "url": "https://es.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=Ingl%C3%A9s+como+segunda+lengua",
+    "fetched_at": "2026-09-22T15:45:10.079025+00:00",
+    "sha256": "0f5f74c02edaa4c01b4ff2ba8142869b16ec51cfa0603af13cac232bf5af71d9",
+    "status": 200
+  },
+  {
+    "url": "https://fi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&ppprop=disambiguation%7Cwikibase_item&prop=pageprops%7Cinfo&redirects=1&titles=Englannin+kielen+opetus+vieraana+kielen%C3%A4",
+    "fetched_at": "2026-09-22T15:45:10.585436+00:00",
+    "sha256": "cf2e8f74fbaa3a4f25657515fbcad222a8715269182df572f52caeb00040b3c0",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/de.wikipedia/all-access/user/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:46:07.920499+00:00",
+    "sha256": "d61eae037c99bcd0f624d9b0cab877ef2d73a6c1be096afe350a3ccd33343345",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/de.wikipedia/all-access/user/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:46:08.213623+00:00",
+    "sha256": "96dd9ac21c432e4049ba2e017256e0c81f431567b08b2958b0deee998863cddc",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/de.wikipedia/all-access/user/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:46:08.498005+00:00",
+    "sha256": "ece7c39a439bf112f9933586fd2b280259120dcbef51e9dfc20933614531eb74",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia/all-access/user/Englisch_als_Zweitsprache/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:46:08.807982+00:00",
+    "sha256": "434a3a2c11d3c335738707e0e43124dfa863528a96dca976720765186684ed1d",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia/all-access/user/Englisch_als_Zweitsprache/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:46:09.409646+00:00",
+    "sha256": "924d03d5ae678ca5cf89f76c73473fee4efd8111327034c6c906718fdfe2d76b",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia/all-access/user/Englisch_als_Zweitsprache/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:46:10.206281+00:00",
+    "sha256": "0c2a99f3edb8610db91a18b4fce5e66cdce0ed4e5c35a5b95f59346179668b59",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/es.wikipedia/all-access/user/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:46:10.707932+00:00",
+    "sha256": "ea23a02cdfe7b2289313b564d80a531ca154c023b65c66b8c3f7d56aa1ae346e",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/es.wikipedia/all-access/user/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:46:11.776678+00:00",
+    "sha256": "1d666ca0fefef401aba8179920562e435b0310af6205141ad1646d4a06255d7b",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/es.wikipedia/all-access/user/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:46:12.676138+00:00",
+    "sha256": "fe5a218dfdc2b358b4abce152a147d10aa8e030f6f0e0614610a93bd106d7891",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/all-access/user/Ingl%C3%A9s_como_segunda_lengua/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:46:13.238927+00:00",
+    "sha256": "d3ea63e103e0cc084c662b6caed6bd7947fe37e75988c3b2ced3d0864ec6e1ae",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/all-access/user/Ingl%C3%A9s_como_segunda_lengua/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:47:50.910522+00:00",
+    "sha256": "f4e677c553e98a16a8264f4284d5906a15b9daff84e8cbdbc48b4beb669e9fa4",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/all-access/user/Ingl%C3%A9s_como_segunda_lengua/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:47:51.346392+00:00",
+    "sha256": "f3936d6df4afe84aea4ec31c497e06e13540932997758eff06d863fa98aeaefe",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/fi.wikipedia/all-access/user/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:47:51.796673+00:00",
+    "sha256": "8cdb4763c50b37e18ac41338ef9e6e68af58649e20beed894652d211cc4d3b64",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/fi.wikipedia/all-access/user/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:47:52.365227+00:00",
+    "sha256": "c8ef8b691e851806dfa5aba367b8fbb9101f7b37f9c259ab813f331726d2a118",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/aggregate/fi.wikipedia/all-access/user/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:47:52.921443+00:00",
+    "sha256": "4cdd0af392543ce4c213e3a2930f4ff289e25a09ad047721843bb20375811328",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/fi.wikipedia/all-access/user/Englannin_kielen_opetus_vieraana_kielen%C3%A4/monthly/2024010100/2024123100",
+    "fetched_at": "2026-09-22T15:47:53.312627+00:00",
+    "sha256": "491de640bb326a18158230fc97ab6a66719fe50807e10a2823c4344b44adf44f",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/fi.wikipedia/all-access/user/Englannin_kielen_opetus_vieraana_kielen%C3%A4/monthly/2025010100/2025123100",
+    "fetched_at": "2026-09-22T15:47:53.716442+00:00",
+    "sha256": "3beb076c32633301270f3a8393144e8a12f45fa5572823fc3514ee2690e6dbd6",
+    "status": 200
+  },
+  {
+    "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/fi.wikipedia/all-access/user/Englannin_kielen_opetus_vieraana_kielen%C3%A4/monthly/2026010100/2026083100",
+    "fetched_at": "2026-09-22T15:47:54.065925+00:00",
+    "sha256": "df054a5cd3df45a8e5d869848e77d456328f66a92422764ec05c11aadaab8905",
+    "status": 200
+  }
+]

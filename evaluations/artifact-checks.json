@@ -1,0 +1,38 @@
+[
+  {
+    "example": "astronomy-uk",
+    "verified": true,
+    "files": 7,
+    "snapshot_sha256": "1802a929d15f9e31915495f6dbf951aa081dbe70f686053ef19969d639163235"
+  },
+  {
+    "example": "astronomy-uk-pl",
+    "verified": true,
+    "files": 7,
+    "snapshot_sha256": "0c3087c8adee9d446268b1cdd6cedc86e10299d47676eb7d207b225a678a3d43"
+  },
+  {
+    "example": "english-de-es-fi",
+    "verified": true,
+    "files": 7,
+    "snapshot_sha256": "78da911d52feeb8d8a275663e53ab21144eb74311273cad2ad639c755ef84275"
+  },
+  {
+    "example": "fasting-pl-cs",
+    "verified": true,
+    "files": 7,
+    "snapshot_sha256": "67196f82dd7692e19061405f8146773a1c86b1652b77ce86d3613dc2dd3b38a2"
+  },
+  {
+    "evaluator_artifact": "astronomy-uk-localized",
+    "verified": true,
+    "files": 7,
+    "snapshot_sha256": "1802a929d15f9e31915495f6dbf951aa081dbe70f686053ef19969d639163235"
+  },
+  {
+    "evaluator_artifact": "astronomy-uk-pl-localized-threshold20",
+    "verified": true,
+    "files": 7,
+    "snapshot_sha256": "0c3087c8adee9d446268b1cdd6cedc86e10299d47676eb7d207b225a678a3d43"
+  }
+]

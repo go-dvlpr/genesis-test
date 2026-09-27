@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-22",
+  "platform": "macOS",
+  "python": "CPython 3.12.4",
+  "installation": "uv sync --locked in a new environment from an extracted candidate archive",
+  "tests": {
+    "command": "uv run --locked pytest -q",
+    "passed": 53,
+    "failed": 0
+  },
+  "lint": {
+    "command": "uv run --locked ruff check .",
+    "passed": true
+  },
+  "format": {
+    "command": "uv run --locked ruff format --check .",
+    "passed": true
+  },
+  "skill_frontmatter_validation": "passed",
+  "independent_decimal_check": "7 measured example rows verified; 1 missing mapping correctly retained",
+  "artifact_integrity": "4 final examples and 2 unchanged evaluator reports verified",
+  "pdf_visual_review": "All 4 final one-page briefs rendered with Poppler and inspected",
+  "clean_install_snapshot_replay": "passed, including manifest verification",
+  "limitations": [
+    "Observed on one operating system and one Python version.",
+    "Two related low-cost-agent scenarios, repeated after localization; not a statistical model benchmark."
+  ]
+}
